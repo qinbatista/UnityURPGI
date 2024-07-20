@@ -331,7 +331,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a83d2f7ae04ab6f4f99b0d85377be998, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  serializedBakingSet: {fileID: 11400000, guid: 1fce670b88b2b4adba4a47bb7975eaf2, type: 2}
+  serializedBakingSet: {fileID: 11400000, guid: 17fef688493c6403693f7515c449bd6e, type: 2}
   sceneGUID: 99c9720ab356a0642a771bea13969a05
   obsoleteAsset: {fileID: 0}
   obsoleteCellSharedDataAsset: {fileID: 0}
@@ -871,7 +871,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 513879484e6b74f0195f3af22d117cc3, type: 2}
+  - {fileID: 2100000, guid: 0b439e189deef4d24bc2618f51c93857, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
